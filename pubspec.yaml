@@ -1,0 +1,23 @@
+name: challenge
+description: "JusstPlayer SamNolan"
+publish_to: 'jusst technologies GmbH'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  web_socket_channel: ^2.4.0
+  json_annotation: ^4.8.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.6
+  json_serializable: ^6.7.1
+  pedantic: ^1.9.0
+flutter:
+  uses-material-design: true
