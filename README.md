@@ -1,10 +1,10 @@
-# challenge
+# JusstPlayer
 
-challenge jusst company
+challenge jusst technologies GmbH
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+"Jusst Audio Player: A real-time audio playback app with metadata visualization, volume control, and system state overlays."
 
 A few resources to get you started if this is your first Flutter project:
 
